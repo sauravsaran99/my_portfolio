@@ -43,6 +43,10 @@ document.querySelector(".webone").onclick =() =>{
   window.open ('https://sleepy-scrubland-64819.herokuapp.com/home')
 }
 
+document.querySelector(".pig").onclick =() =>{
+  window.open ('https://cerulean-pasca-c4ca07.netlify.app/#')
+}
+
 document.querySelector(".git_1").onclick =() =>{
   window.open ('https://github.com/sauravsaran99/TataCliq-Back-end')
 }
@@ -57,4 +61,8 @@ document.querySelector(".lakmek").onclick =() =>{
 
 document.querySelector(".git_2").onclick =() =>{
   window.open ('https://github.com/sauravsaran99/lakmeindia')
+}
+
+document.querySelector(".git_3").onclick =() =>{
+  window.open ('https://github.com/sauravsaran99/pig-game-')
 }

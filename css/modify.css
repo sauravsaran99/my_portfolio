@@ -51,7 +51,7 @@
     margin-left: 70px;
 }
 
-.git_1, .webone_link, .git_2, .lakmek, .webone {
+.git_1, .webone_link, .git_2, .git_3, .lakmek, .webone, .pig {
     cursor: pointer;
 }
 
@@ -100,7 +100,7 @@
 }
 
 .main-project-111 {
-    background-image: url("../images/project/s.png");
+    background-image: url("../images/project/game.png");
 }
 
 .main-project-2 {
